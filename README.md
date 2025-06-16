@@ -112,12 +112,6 @@ Forecasts are generated and saved with future date indices, ready for use in das
 
 ---
 
-### 🙌 Contributors
-
-Made with 💡 by **Atharva Kale**
-
----
-
 ### 📃 License
 
 This project is open-source and free to use under the **MIT License**.
