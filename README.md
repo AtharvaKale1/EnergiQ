@@ -89,11 +89,9 @@ Forecasts are generated and saved with future date indices, ready for use in das
 
 ![image](https://github.com/user-attachments/assets/40690736-01ef-4080-bd2d-c15c16da737c)
 
-##StreamLit InterFace
+## StreamLit InterFace
 
 ![image](https://github.com/user-attachments/assets/06f7c09f-7347-4c59-80cc-7b55998b17c0)
-
-![image](https://github.com/user-attachments/assets/436be4d6-ef76-4e49-972a-0f553baca84a)
 
 ---
 
